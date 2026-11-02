@@ -38,7 +38,8 @@
         "icon": "code",
         "label": "PHP · JavaScript · Python · C, etc."
       }
-    ]
+    ],
+    "showAvatar": false
   },
   "about": {
     "title": "About me",
