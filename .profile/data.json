@@ -1,0 +1,465 @@
+{
+ "key": "bd928b93",
+ "stars": 14,
+ "contributions": 3847,
+ "repos": 19,
+ "followers": 15,
+ "languages": [
+  [
+   "C",
+   1757113
+  ],
+  [
+   "C++",
+   279006
+  ],
+  [
+   "PHP",
+   184499
+  ],
+  [
+   "Python",
+   172298
+  ],
+  [
+   "HTML",
+   36953
+  ],
+  [
+   "JavaScript",
+   34628
+  ],
+  [
+   "CSS",
+   16555
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 10,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 5,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 2,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 3,
+  "longest": 181
+ },
+ "pins": [
+  {
+   "name": "CVE-2025-6934",
+   "url": "https://github.com/ryhnmhrdka/CVE-2025-6934",
+   "text": "CVE-2025-6934 - Exploit WordPress Opal Estate Pro",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "auto-exploit",
+    "cves"
+   ]
+  },
+  {
+   "name": "CVE-2025-24799",
+   "url": "https://github.com/ryhnmhrdka/CVE-2025-24799",
+   "text": "CVE-2025-24799 Exploit: GLPI - Unauthenticated SQL Injection",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "auto-exploit",
+    "cves",
+    "poc",
+    "sqlinjection"
+   ]
+  },
+  {
+   "name": "Strix",
+   "url": "https://github.com/strixproject/Strix",
+   "text": "Strix is a command-line penetration testing assistant powered by AI. It integrates with various AI models to help cybersecurity professionals and enthusiasts with technical tasks, while maintaining strict security controls to prevent unintended actions.",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": [
+    "bugbounty-tool",
+    "ethical-hacking-tools",
+    "penetration-testing-tools",
+    "red-team-tools",
+    "red-teaming-tools",
+    "tools"
+   ]
+  },
+  {
+   "name": "Wraith",
+   "url": "https://github.com/ryhnmhrdka/Wraith",
+   "text": "WiFi security auditing tool for the ESP8266 platform. It provides a set of tools for scanning, monitoring, and performing common WiFi attacks through a physical OLED interface and a web-based dashboard.",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": [
+    "deauther",
+    "esp8266",
+    "wifi-hacking"
+   ]
+  },
+  {
+   "name": "ENIGMA",
+   "url": "https://github.com/ryhnmhrdka/ENIGMA",
+   "text": "PyQt5-based GUI tool that unifies multiple reconnaissance utilities for active and passive information gathering",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": [
+    "ai-tools",
+    "exploitation",
+    "information-gathering",
+    "penetration-testing-tools",
+    "python3",
+    "reconnaissance",
+    "reconnaissance-tool",
+    "red-team-tools",
+    "scanner",
+    "web-security"
+   ]
+  },
+  {
+   "name": "PatriotCTF2025-Writeup",
+   "url": "https://github.com/ryhnmhrdka/PatriotCTF2025-Writeup",
+   "text": "Collection of write ups from the PatriotCTF 2025 event",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": [
+    "ctf",
+    "ctf-challenges",
+    "ctf-solutions",
+    "ctf-writeups",
+    "education",
+    "writeups",
+    "patriotctf",
+    "cryptography",
+    "reverse-engineering",
+    "web-exploitation"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "Kali-Codespace",
+   "url": "https://github.com/ryhnmhrdka/Kali-Codespace",
+   "text": "Shows how to set up a Kali Linux container in GitHub Codespaces for pentesting using terminal and web-based tools.",
+   "fork": false,
+   "stars": 6,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "ENIGMA",
+   "url": "https://github.com/ryhnmhrdka/ENIGMA",
+   "text": "PyQt5-based GUI tool that unifies multiple reconnaissance utilities for active and passive information gathering",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": [
+    "ai-tools",
+    "exploitation",
+    "information-gathering",
+    "penetration-testing-tools",
+    "python3",
+    "reconnaissance",
+    "reconnaissance-tool",
+    "red-team-tools",
+    "scanner",
+    "web-security"
+   ]
+  },
+  {
+   "name": "SWIFT",
+   "url": "https://github.com/ryhnmhrdka/SWIFT",
+   "text": "Passive & high-performance security intelligence platform designed for forensic-level telemetry collection and behavioral threat analysis in PHP-based web environments. providing real-time visibility into the security posture of an application without the need for background services or external dependencies.",
+   "fork": false,
+   "stars": 2,
+   "language": "PHP",
+   "topics": [
+    "cybersecurity-tools",
+    "dashboard",
+    "forensic-analysis",
+    "monitoring",
+    "web-security"
+   ]
+  },
+  {
+   "name": "f0x",
+   "url": "https://github.com/ryhnmhrdka/f0x",
+   "text": "Remote Access Tool written in Python that allows for remote control of infected systems through Telegram bot API. It provides various capabilities including command execution, data exfiltration, and system surveillance.",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": [
+    "ethical-hacking-tools",
+    "malware",
+    "ransomware",
+    "rat",
+    "red-team",
+    "remote-access"
+   ]
+  },
+  {
+   "name": "SIC7-2025-JARVIS",
+   "url": "https://github.com/ryhnmhrdka/SIC7-2025-JARVIS",
+   "text": "SERA (Smart Environment: Real-Time Room Monitoring & ML-Driven Cooling Automation for Energy Efficiency)",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": [
+    "iot",
+    "machine-learning",
+    "smarthome",
+    "esp32"
+   ]
+  },
+  {
+   "name": "ryhnmhrdka",
+   "url": "https://github.com/ryhnmhrdka/ryhnmhrdka",
+   "text": "My personal README.md for my GitHub profile.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "github-readme-activity-graph",
+   "url": "https://github.com/ryhnmhrdka/github-readme-activity-graph",
+   "text": "A dynamically generated activity graph to show your GitHub activities of last 31 days.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "CVE-2026-41940",
+   "url": "https://github.com/ryhnmhrdka/CVE-2026-41940",
+   "text": "CVE-2026-41940 Exploit: cPanel & WHM Authentication Bypass",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Wraith",
+   "url": "https://github.com/ryhnmhrdka/Wraith",
+   "text": "WiFi security auditing tool for the ESP8266 platform. It provides a set of tools for scanning, monitoring, and performing common WiFi attacks through a physical OLED interface and a web-based dashboard.",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": [
+    "deauther",
+    "esp8266",
+    "wifi-hacking"
+   ]
+  },
+  {
+   "name": "github-readme-stats",
+   "url": "https://github.com/ryhnmhrdka/github-readme-stats",
+   "text": "Dynamically generated stats for your github readmes",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Winglad",
+   "url": "https://github.com/ryhnmhrdka/Winglad",
+   "text": "Virtual controller server application that allows you to use your smartphone or other web-enabled devices as a gamepad, keyboard, or mouse on Linux systems.",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": [
+    "controller",
+    "game",
+    "gamepad",
+    "joystick",
+    "joystick-control",
+    "python",
+    "tools",
+    "virtual-controller"
+   ]
+  },
+  {
+   "name": "PatriotCTF2025-Writeup",
+   "url": "https://github.com/ryhnmhrdka/PatriotCTF2025-Writeup",
+   "text": "Collection of write ups from the PatriotCTF 2025 event",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": [
+    "ctf",
+    "ctf-challenges",
+    "ctf-solutions",
+    "ctf-writeups",
+    "education",
+    "writeups",
+    "patriotctf",
+    "cryptography",
+    "reverse-engineering",
+    "web-exploitation"
+   ]
+  },
+  {
+   "name": "Traffic-Light-Simulation",
+   "url": "https://github.com/ryhnmhrdka/Traffic-Light-Simulation",
+   "text": "Just a project for school coded in python.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "ENIGMA_CLI",
+   "url": "https://github.com/ryhnmhrdka/ENIGMA_CLI",
+   "text": "A comprehensive security reconnaissance tool for bug bounty hunters. This is the cli version of ENIGMA",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Write-Up-WRECKIT6.0-Junior",
+   "url": "https://github.com/ryhnmhrdka/Write-Up-WRECKIT6.0-Junior",
+   "text": "Write Up WRECKIT 6.0 Junior Category - Team 3xplo1t3r",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Arch-Codespace",
+   "url": "https://github.com/ryhnmhrdka/Arch-Codespace",
+   "text": "Shows how to set up Arch Linux container in GitHub Codespaces.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "CVE-2025-24799",
+   "url": "https://github.com/ryhnmhrdka/CVE-2025-24799",
+   "text": "CVE-2025-24799 Exploit: GLPI - Unauthenticated SQL Injection",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "auto-exploit",
+    "cves",
+    "poc",
+    "sqlinjection"
+   ]
+  },
+  {
+   "name": "CVE-2025-6934",
+   "url": "https://github.com/ryhnmhrdka/CVE-2025-6934",
+   "text": "CVE-2025-6934 - Exploit WordPress Opal Estate Pro",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "auto-exploit",
+    "cves"
+   ]
+  },
+  {
+   "name": "illusion",
+   "url": "https://github.com/ryhnmhrdka/illusion",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
