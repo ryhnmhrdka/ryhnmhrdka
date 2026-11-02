@@ -18,6 +18,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: metawka/expressive-profile@v1
+      - uses: rs3mry/m3e-readme@main
         with:
           token: ${{ secrets.PROFILE_TOKEN || github.token }}
