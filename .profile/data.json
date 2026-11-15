@@ -1,13 +1,17 @@
 {
- "key": "b11471f4",
+ "key": "71cacfb2",
  "stars": 14,
- "contributions": 3733,
- "repos": 19,
+ "contributions": 3734,
+ "repos": 20,
  "followers": 15,
  "languages": [
   [
    "C",
    1757113
+  ],
+  [
+   "Rust",
+   878297
   ],
   [
    "C++",
@@ -28,10 +32,6 @@
   [
    "JavaScript",
    34628
-  ],
-  [
-   "CSS",
-   16555
   ]
  ],
  "days": [
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 5,
+    "c": 6,
     "day": 15,
     "today": true
    },
@@ -298,6 +298,15 @@
     "smarthome",
     "esp32"
    ]
+  },
+  {
+   "name": "asterisk",
+   "url": "https://github.com/ryhnmhrdka/asterisk",
+   "text": "Workflow based AI Agent vulnerability scanner. Built for Kartika Cyber Hackathon 2026",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
   },
   {
    "name": "ryhnmhrdka",
