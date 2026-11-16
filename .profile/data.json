@@ -1,7 +1,7 @@
 {
- "key": "c258aa47",
- "stars": 14,
- "contributions": 3582,
+ "key": "a682bb7c",
+ "stars": 15,
+ "contributions": 3583,
  "repos": 20,
  "followers": 15,
  "languages": [
@@ -116,7 +116,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 2,
     "day": 16,
     "today": true
    },
@@ -290,6 +290,15 @@
    ]
   },
   {
+   "name": "asterisk",
+   "url": "https://github.com/ryhnmhrdka/asterisk",
+   "text": "Workflow based AI Agent vulnerability scanner. Built for Kartika Cyber Hackathon 2026",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
+   "topics": []
+  },
+  {
    "name": "SIC7-2025-JARVIS",
    "url": "https://github.com/ryhnmhrdka/SIC7-2025-JARVIS",
    "text": "SERA (Smart Environment: Real-Time Room Monitoring & ML-Driven Cooling Automation for Energy Efficiency)",
@@ -302,15 +311,6 @@
     "smarthome",
     "esp32"
    ]
-  },
-  {
-   "name": "asterisk",
-   "url": "https://github.com/ryhnmhrdka/asterisk",
-   "text": "Workflow based AI Agent vulnerability scanner. Built for Kartika Cyber Hackathon 2026",
-   "fork": false,
-   "stars": 0,
-   "language": "Rust",
-   "topics": []
   },
   {
    "name": "ryhnmhrdka",
