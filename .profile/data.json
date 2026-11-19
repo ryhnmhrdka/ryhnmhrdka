@@ -1,7 +1,7 @@
 {
- "key": "7ae81994",
- "stars": 16,
- "contributions": 3591,
+ "key": "a37b31fc",
+ "stars": 18,
+ "contributions": 3593,
  "repos": 20,
  "followers": 15,
  "languages": [
@@ -131,7 +131,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 3,
     "day": 19,
     "today": true
    },
@@ -251,6 +251,15 @@
    "topics": []
   },
   {
+   "name": "asterisk",
+   "url": "https://github.com/ryhnmhrdka/asterisk",
+   "text": "Workflow based AI Agent vulnerability scanner. Built for Kartika Cyber Hackathon 2026",
+   "fork": false,
+   "stars": 4,
+   "language": "Rust",
+   "topics": []
+  },
+  {
    "name": "ENIGMA",
    "url": "https://github.com/ryhnmhrdka/ENIGMA",
    "text": "PyQt5-based GUI tool that unifies multiple reconnaissance utilities for active and passive information gathering",
@@ -269,15 +278,6 @@
     "scanner",
     "web-security"
    ]
-  },
-  {
-   "name": "asterisk",
-   "url": "https://github.com/ryhnmhrdka/asterisk",
-   "text": "Workflow based AI Agent vulnerability scanner. Built for Kartika Cyber Hackathon 2026",
-   "fork": false,
-   "stars": 2,
-   "language": "Rust",
-   "topics": []
   },
   {
    "name": "SWIFT",
