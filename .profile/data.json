@@ -1,7 +1,7 @@
 {
- "key": "f730cc3d",
+ "key": "5e25d528",
  "stars": 18,
- "contributions": 3594,
+ "contributions": 3595,
  "repos": 20,
  "followers": 15,
  "languages": [
@@ -131,11 +131,15 @@
     "today": false
    },
    {
-    "c": 4,
+    "c": 5,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
